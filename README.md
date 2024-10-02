@@ -2,12 +2,6 @@
 
 As part of the codebasics september month resume challenge, I have worked on this analysis project.
 
-Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
-
-Link to [Interactive Dashboard](https://www.novypro.com/project/-codebasics-september-month-resume-challenge)
-
-Link to [Presentation Video](https://www.linkedin.com/posts/naveen-s6_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6977486712180527105-17Hm)
-
 ## Problem statement
 
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
@@ -24,27 +18,27 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
+    <img src="https://github.com/mayank915/AtliQ-Hospitality-Analysis-PowerBI/blob/main/mock%20up%20dashboard_atliq%20grands.png" width="600">
 </p>
 
 
 ## Data Model
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
+    <img src='https://github.com/mayank915/AtliQ-Hospitality-Analysis-PowerBI/blob/main/data_model.png' height="400">
 </p>
 
 
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
+    <img src='https://github.com/mayank915/AtliQ-Hospitality-Analysis-PowerBI/blob/main/OVERALL%20DASHBOARD.png' width="600">
 </p>
 
 ## Monthly Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
+    <img src='https://github.com/mayank915/AtliQ-Hospitality-Analysis-PowerBI/blob/main/MONTHLY%20DASHBOARD.png' width="600">
 </p>
 
 ## Learnt things from this Project 
